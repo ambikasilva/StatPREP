@@ -1,6 +1,6 @@
 # Welcome to Professor Silva's Statistics page!
 
-> Note to students:  You will need to go to www.statcrunch.com to do the HW
+> Note to students:  You will need to go to https://www.statcrunch.com to do the HW
 
 > Another note to instructors: You'll be editing the `index.md` file in your own repository to put in your own content. None of the material below this note will be appropriate for your individual site, so make sure that you **delete** all of the material in your `index.md` that shows up the very first time you edit it.
 
